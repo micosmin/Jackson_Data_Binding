@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "943984",
+        "name": "(Name not known)",
+        "osmTags": {
+          "amenity": "bicycle_parking",
+          "capacity": "76",
+          "covered": "no",
+          "source": "survey"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.118357,
+          52.205166
+        ]
+      }
+    }
+  ]
+}
